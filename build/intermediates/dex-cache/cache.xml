@@ -1,2 +1,75 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_7ff41c87c1ebee72b9f07e787b10f293ac754565/classes.dex" />
+    </item>
+    <item
+        jar="/Users/uno/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.6.2/25c2196ddf53961b6dc862073187be51cb356fd3/jackson-databind-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="25c2196ddf53961b6dc862073187be51cb356fd3">
+        <dex dex="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-databind-2.6.2_03aab2c97bd8a2cfd20aed330c6fc2592b8ddb70/classes.dex" />
+    </item>
+    <item
+        jar="/Users/uno/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.6.2/123f29333b2c6b3516b14252b6e93226bfcd6e37/jackson-core-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="123f29333b2c6b3516b14252b6e93226bfcd6e37">
+        <dex dex="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-core-2.6.2_1819dab26008040c974e1a712acf5fc2c05a2502/classes.dex" />
+    </item>
+    <item
+        jar="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_7a313b135128d5a3618c0d05f25b0e5ab016947f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f4f7023ae2eda11efaf4d52cbbe99b56b174c921">
+        <dex dex="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3fca8717c41516cdc4007763765196c0ca40b048/classes.dex" />
+    </item>
+    <item
+        jar="/Users/uno/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.6.0/a0990e2e812ac6639b6ce955c91b13228500476e/jackson-annotations-2.6.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0990e2e812ac6639b6ce955c91b13228500476e">
+        <dex dex="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/jackson-annotations-2.6.0_4760c436f39fd2d5dae88ce74b18d2b608ca1ea6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/uno/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_90251cda81021620388ef0ef6a7efc821fe1b4cc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_95d2417fcd6635340f7dcbb3789bc869b38e195f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="15e4702a9659d18728a2e5a26ecb6f0aa1afcc08">
+        <dex dex="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e101e1533bc3d7881b71689da7290274963964ac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/uno/Android/AndroidStudioProjects/BluetoothCameraAndroid/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_87321a21701ce49162b3d306984bc36c8581aa28/classes.dex" />
+    </item>
+
+</items>
